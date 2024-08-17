@@ -1,0 +1,4 @@
+1. craete VM --> python -m venv venv
+2. Activate--> .\venv\Scripts\activate
+3. craete the requirement.txt --> pip freeze > requirements.txt
+4. install the all requirement --pip install -r requirements.txt
